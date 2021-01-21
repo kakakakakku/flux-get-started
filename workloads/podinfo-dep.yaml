@@ -25,7 +25,7 @@ spec:
         prometheus.io/port: "9797"
       labels:
         app: podinfo
-        role: demo-v6
+        role: demo-v7
     spec:
       initContainers:
       - name: init
