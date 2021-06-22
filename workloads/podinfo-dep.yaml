@@ -25,7 +25,7 @@ spec:
         prometheus.io/port: "9797"
       labels:
         app: podinfo
-        training-date: 2021-05-25
+        training-date: 2021-05-26
     spec:
       initContainers:
       - name: init
